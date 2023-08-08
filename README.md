@@ -1,6 +1,5 @@
 ### <div align="center">Olá, me chamo Victor e estou a caminho de me tornar dev full-stack</div>  
-  
-
+## <div align="center">Email: victormello7003@hotmail.com</div>
 <br/>  
 
 <table align="center"><tr><td valign="top" width="33%">
