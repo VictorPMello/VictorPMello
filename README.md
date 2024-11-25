@@ -1,68 +1,40 @@
-### <div align="center">Olá, me chamo Victor e estou a caminho de me tornar dev full-stack</div>  
-## <div align="center">Email: victormello7003@hotmail.com</div>
-<br/>  
-
-<table align="center"><tr><td valign="top" width="33%">
-
-
-
-<h3 align="center">Frontend</h3>
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
+### <h1 align="left">Olá, me chamo Victor</h1>  
+<h3 align="left">
+Sou um Desenvolvedor Full Stack com foco em JavaScript, React.js, Node.js e TypeScript. Trabalho como freelancer, desenvolvendo soluções digitais eficientes que aliam tecnologia de ponta e usabilidade.</h3>
+  <ul>
+    <li>Tenho experiência em construção de interfaces dinâmicas, integrações com APIs e implementação de designs responsivos, sempre buscando oferecer experiências excepcionais para o usuário.</li>
+    <li>Meu objetivo é contribuir para projetos que demandem criatividade, inovação e excelência técnica, utilizando meu conhecimento para criar soluções tecnológicas que sejam úteis e escaláveis.</li>
+    <li>Estou constantemente aprimorando minhas habilidades e explorando novas ferramentas para entregar resultados que superem as expectativas.</li>
+  </ul>
+<br/> 
 
 
-
-<h3 align="center">Backend</h3>
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-<h3 align="center">DevOps</h3>
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-<div align="center">
-<a href="https://github.com/https://github.com/VictorPMello" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victor-mello-dev/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<div display="ïnline-block">  
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256" alt="Javascript" height="50" />
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-reagir-4-1175110.png?f=webp&w=256" alt="React" height="50" />
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next" height="50" />
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-e-3521517-2945020.png?f=webp&w=256" alt="Jest" height="50" />
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-redux-3521674-2945118.png?f=webp&w=256" alt="Redux" height="50" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="50" />
   
 
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-no-js-1174925.png?f=webp&w=256" alt="Nodejs" height="50" />
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=webp&w=256" alt="MySQL" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=webp&w=256" alt="MongoDB" height="50" />
+    
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    
+</div>
 <br/>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorPMello" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPMello" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VictorPMello&&style=flat-square" align="center" />
+<div>
+  <h2 align="center"> Vamos construir algo incrível juntos?</h2>
+  <a href="https://www.linkedin.com/in/victor-mello-dev/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
 </div>  
-
 <br />
