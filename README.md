@@ -1,40 +1,62 @@
-### <h1 align="left">Olá, me chamo Victor</h1>  
-<h3 align="left">
-Sou um Desenvolvedor Full Stack com foco em JavaScript, React.js, Node.js e TypeScript. Trabalho como freelancer, desenvolvendo soluções digitais eficientes que aliam tecnologia de ponta e usabilidade.</h3>
-  <ul>
-    <li>Tenho experiência em construção de interfaces dinâmicas, integrações com APIs e implementação de designs responsivos, sempre buscando oferecer experiências excepcionais para o usuário.</li>
-    <li>Meu objetivo é contribuir para projetos que demandem criatividade, inovação e excelência técnica, utilizando meu conhecimento para criar soluções tecnológicas que sejam úteis e escaláveis.</li>
-    <li>Estou constantemente aprimorando minhas habilidades e explorando novas ferramentas para entregar resultados que superem as expectativas.</li>
-  </ul>
-<br/> 
+<h2 align="center">Olá 👋! Sou Victor Mello, Desenvolvedor Full Stack especializado em React, Next.js e Node.js</h2>
 
+###
 
-<div display="ïnline-block">  
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=256" alt="Javascript" height="50" />
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-reagir-4-1175110.png?f=webp&w=256" alt="React" height="50" />
-  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next" height="50" />
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-e-3521517-2945020.png?f=webp&w=256" alt="Jest" height="50" />
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-redux-3521674-2945118.png?f=webp&w=256" alt="Redux" height="50" />
-  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="50" />
-  
-
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-no-js-1174925.png?f=webp&w=256" alt="Nodejs" height="50" />
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=webp&w=256" alt="MySQL" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-5-1175140.png?f=webp&w=256" alt="MongoDB" height="50" />
-    
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-    
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorPMello&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorPMello&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<br/>  
-<div>
-  <h2 align="center"> Vamos construir algo incrível juntos?</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/victor-mello-dev/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>  
-<br />
+</div>
+
+###
+
+<img align="right" height="0" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<p align="left">💻 Sobre Mim<br><br>Desenvolvedor Full Stack apaixonado por criar aplicações web modernas e escaláveis. <br><br>🚀 Recentemente desenvolvi o **Connective CRM** do zero - sistema completo com autenticação JWT, dashboard analítico em tempo real e sistema Kanban drag-and-drop.<br><br>🎯 Busco oportunidades para contribuir com equipes inovadoras e continuar evoluindo tecnicamente.<br><br>📍 Feira de Santana, Bahia - Brasil<br>🌐 Disponível para trabalho remoto, híbrido ou presencial</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/VictorPMello/VictorPMello/output/snake.svg" alt="Snake animation" />
+
+###
